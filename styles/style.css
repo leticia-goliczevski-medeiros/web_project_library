@@ -376,11 +376,11 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
-  line-height: 32px;
 }
 
 .footer__list-item {
   color: #ffffff;
+  margin-bottom: 16px;
 }
 
 .footer__column-link {
